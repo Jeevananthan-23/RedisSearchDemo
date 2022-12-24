@@ -1,8 +1,8 @@
 ﻿namespace RedisSearchDemo.Models
 {
-  public class Category
+  public class Suggestion
   {
-    public string Id { get; set; }
     public string Name { get; set; }
+    public string Payload { get; set; }
   }
 }

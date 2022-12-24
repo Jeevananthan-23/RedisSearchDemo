@@ -1,6 +1,7 @@
 ﻿namespace RedisSearchDemo.Repositories
 {
-    public class BookRatingRepository
-    {
-    }
+  public class BookRatingRepository
+  {
+
+  }
 }

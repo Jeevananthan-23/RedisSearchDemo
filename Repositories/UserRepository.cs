@@ -1,6 +1,6 @@
 ﻿namespace RedisSearchDemo.Repositories
 {
-    public class UserRepository
-    {
-    }
+  public class UserRepository
+  {
+  }
 }
